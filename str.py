@@ -1,0 +1,11 @@
+a="pc-info"
+# print(a[0:3])
+# print(a[2:3])
+# print(a[::-1])
+# print(a[::2])
+print(a.ljust(50," "))
+print(a.center(50," "))
+print(a.rjust(50, " "))
+print(" haha\n".strip())
+print(" haha\n".lstrip())
+print(" haha\n".rstrip())
